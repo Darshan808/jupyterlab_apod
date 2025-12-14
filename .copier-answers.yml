@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.5.1
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: pranishpoudel10@gmail.com
+author_name: Darshan
+create_claude_symlink: true
+create_gemini_symlink: true
+has_ai_rules: true
+has_binder: true
+has_settings: true
+kind: frontend-and-server
+labextension_name: DP_APOD
+project_short_description: A JupyterLab extension that displays astronomy picture
+    of the day
+python_name: DP_APOD
+repository: https://github.com/Darshan808/jupyterlab_apod.git
+test: true
+
